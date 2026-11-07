@@ -1,0 +1,5 @@
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v4\v4\bin\Debug\v4.exe.config
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v4\v4\bin\Debug\v4.exe
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v4\v4\bin\Debug\v4.pdb
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v4\v4\obj\Debug\v4.exe
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v4\v4\obj\Debug\v4.pdb

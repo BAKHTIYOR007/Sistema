@@ -1,0 +1,9 @@
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v2\v2\bin\Debug\v2.exe.config
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v2\v2\bin\Debug\v2.exe
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v2\v2\bin\Debug\v2.pdb
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v2\v2\obj\Debug\v2.csprojResolveAssemblyReference.cache
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v2\v2\obj\Debug\v2.exe
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Projects\Taminotibarsis\v2\v2\obj\Debug\v2.pdb
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Sistema\v2\v2\bin\Debug\v2.exe.config
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Sistema\v2\v2\obj\Debug\v2.exe
+C:\Users\Бахтиёр\OneDrive\Документы\Visual Studio 2013\Sistema\v2\v2\obj\Debug\v2.pdb
